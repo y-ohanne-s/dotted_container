@@ -1,3 +1,3 @@
-# radial_gradient_background
+# dotted_background
 
-A new Flutter project.
+A new Flutter project. Works on all platforms prferably on desktop and web.
